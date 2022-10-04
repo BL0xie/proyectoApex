@@ -1,6 +1,7 @@
 Se realiza SEO para imagenes (wallpaper, y de contenido)
 Se agregan imports de sectiones
-Agregue en 
+Se actualizan titulos de todos los html
+Agregue las siguientes descripciones y keys
 index.html
 <meta name="description" content="Page dedicated to Apex fans with general content">
 <meta name="keywords" content="APEX, WIKI, FAN PAGE">

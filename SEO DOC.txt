@@ -1,0 +1,20 @@
+Se realiza SEO para imagenes (wallpaper, y de contenido)
+Se agregan imports de sectiones
+Agregue en 
+index.html
+<meta name="description" content="Page dedicated to Apex fans with general content">
+<meta name="keywords" content="APEX, WIKI, FAN PAGE">
+characters.html
+<meta name="description" content="List of Apex characters with description">
+<meta name="keywords" content="APEX, CHARACTERS, DESCRIPTION, HABILITIES">
+pros.html
+<meta name="description" content="Watch Apex pros in action in youtube">
+<meta name="keywords" content="APEX, PROS, TEAMS, TSM, FURIA, NRG">
+seasons.html
+<meta name="description" content="List of apex seasons with description and dates">
+<meta name="keywords" content="APEX, SEASONS, DATES, NEW CHARACTER">
+weapons.html
+<meta name="description" content="List of apex characters with links to oficial and description">
+<meta name="keywords" content="APEX, CHARACTERS, DESCRIPTION">
+
+

@@ -1,0 +1,11 @@
+.pros{
+    ul{
+    @include sections();
+    }
+        li{
+            text-align: center;   
+            margin: 25px;
+            color: black;
+            list-style-type: none;
+        }
+    }

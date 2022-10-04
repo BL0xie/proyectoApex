@@ -1,0 +1,15 @@
+body{
+    font-family: 'apexfont', sans-serif;
+    background-image: url(../images/apex_legends_wallpaper2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: bisque;
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr; 
+    grid-template-rows: min-content min-content min-content min-content;
+    grid-template-areas:
+    "header header header"
+    "menu main aside"
+    "menu main aside"
+    "footer footer footer";
+}

@@ -1,0 +1,10 @@
+.weapons{
+    @include sections();
+    ul{
+        margin: 15px;
+        li{
+            padding: 5px;
+            list-style-type: none;
+        }
+    }
+}
